@@ -1,0 +1,125 @@
+
+Bar 1
+  General Settings
+    Padding: 0
+    Hide Equipped Border: True
+    Zoom: True
+  Positioning
+    Anchor: BOTTOM
+    Scale: 0.81
+    X Offset: -179
+    Y Offset: 52
+
+Bar 2
+  General Settings
+    Padding: 0
+    Hide Equipped Border: True
+    Zoom: True
+  Positioning
+    Anchor: BOTTOM
+    Scale: 0.81
+    X Offset: -179
+    Y Offset: 139
+
+Bar 5
+  General Settings
+    Padding: 0
+    Hide Equipped Border: True
+    Zoom: True
+  Positioning
+    Anchor: BOTTOM
+    Scale: 0.81
+    X Offset: -179
+    Y Offset: 110
+
+Bar 6
+  General Settings
+    Padding: 0
+    Hide Equipped Border: True
+    Zoom: True
+  Positioning
+    Anchor: BOTTOM
+    Scale: 0.81
+    X Offset: -179
+    Y Offset: 81
+
+Bar Bar
+  General Settings
+    Hide Equipped Border: True
+    Keyring: False
+    One Bag: True
+    Padding: 0
+    Zoom: True
+  Positioning
+    Anchor: BOTTOM RIGHT
+    Scale: 0.75
+    X Offset: -32
+    Y Offset: 32
+
+Micro Menu
+  General Settings
+    Hide Equipped Border: True
+    Padding: -2
+    Zoom: True
+  Positioning
+    Anchor: BOTTOM RIGHT
+    Scale: 0.75
+    X Offset: -196
+    Y Offset: 31
+
+Pet Bar
+  General Settings
+    Padding: 0
+    Hide Equipped Border: True
+    Zoom: True
+  Positioning
+    Anchor: BOTTOM
+    Scale: 0.97
+    X Offset: -179
+    Y Offset: 168
+
+Stance Bar
+  General Settings
+    Padding: 0
+    Hide Equipped Border: True
+    Zoom: True
+  Positioning
+    Anchor: BOTTOM
+    Scale: 0.97
+    X Offset: -179
+    Y Offset: 168
+
+Vehicle Bar
+  General Settings
+    Padding: 0
+    Hide Equipped Border: True
+    Zoom: True
+  Positioning
+    Anchor: BOTTOM
+    Scale: 1.2
+    X Offset: 142
+    Y Offset: 168
+
+Reputation Bar
+  General Settings
+    Padding: 0
+    Hide Equipped Border: True
+    Scale: 0.32
+    Zoom: True
+  Positioning
+    Anchor: BOTTOM
+    Scale: 0.34
+    X Offset: -174
+    Y Offset: 15
+
+XP Bar
+  General Settings
+    Padding: 0
+    Hide Equipped Border: True
+    Scale: 0.32
+    Zoom: True
+  Positioning
+    Anchor: BOTTOM
+    Scale: 0.34
+    X Offset: -174
+    Y Offset: 20
